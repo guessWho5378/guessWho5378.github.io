@@ -9,4 +9,4 @@
 
 ## Design Choices
 - Clean and minimalistic design using soft borders and shadows.
-- Collapsible sections for better readability on the Resume page.
+- Collapsible sections for better readability on the Resume page. 
